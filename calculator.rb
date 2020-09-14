@@ -1,1 +1,1 @@
-first_number = n
+first_number(n)
